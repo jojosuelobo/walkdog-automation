@@ -1,0 +1,19 @@
+{
+  "name": "walkdog-automation",
+  "version": "1.0.0",
+  "description": "cypress automation for walkdog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jojosuelobo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "validation-br": "^1.4.5"
+  }
+}
